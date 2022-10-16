@@ -8,9 +8,9 @@
   پاییز ۰۲-۰۱
 
   پروژه اول – شبیه ساز سایت imdb 
-<div dir='rtl' align="center">
- ![](https://s24.picofile.com/file/8454207442/Picture1.png)
- </div>
+
+ ![]()
+<img src="https://s24.picofile.com/file/8454207442/Picture1.png"  width="200"/>
   
   طراحان پروژه : امیرعلی گلی – محمد توکلی – علیرضا ساعی
 </div>
