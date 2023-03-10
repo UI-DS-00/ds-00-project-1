@@ -15,7 +15,6 @@
 5. یک `branch` جدید به اسم `first-branch` بسازید 
 6. فایل MyResume.txt  رو تغییر بدید و در  انتهای فایل، شماره دانشجوییتون رو وارد کنید 
 7. درخواست `Pull Request` را بر اساس این [آموزش](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) ارسال نمایید
-8. و در نهایت به هم تیمی خود اطلاع دهید تا درخواست را با برنچ اصلی مرج کند
-9.   صورت پروژه همینجا در فایل Project.md قراره گرفته است.
+8. و در نهایت به هم تیمی خود اطلاع دهید تا درخواست را با برنچ اصلی مرج کند.
 
 </div>
